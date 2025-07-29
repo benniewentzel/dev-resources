@@ -56,6 +56,14 @@ export const resources: Resource[] = [
         url: 'https://www.mailgun.com/',
     },
     {
+        name: 'Mainstream.dev',
+        description:
+        'A curated guide to mainstream developer tools that boost productivity. Discover the tools that truly matter, trusted by developers everywhere.',
+        categories: ['Productivity', 'Tooling'],
+        url: 'https:/mainstream.dev',
+        keywords: ['developer tools', 'tools', 'directory', 'development'], // Optional, but used on the search feature on the website
+    },
+    {
         name: 'Majestic',
         description:
             '⚡ Zero config GUI for Jest. Contribute to Raathigesh/majestic development by creating an account on GitHub.',
